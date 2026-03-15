@@ -129,9 +129,7 @@ Fields used:
 Forecast horizon considered:
 
 ```
-
 0 – 48 hours
-
 ```
 
 Only **January 2024 data** is used for the analysis.
@@ -145,9 +143,7 @@ Missing forecast data points are **ignored and not plotted**.
 A separate **Jupyter Notebook analysis** is included in the repository:
 
 ```
-
 analysis/wind_forecast_analysis.ipynb
-
 ```
 
 The analysis explores:
