@@ -245,7 +245,7 @@ wind-power-forecast-app
 ### 1️⃣ Clone the repository
 
 ```
-git clone [https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git](https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git)
+git clone https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git
 ```
 
 ---
@@ -277,7 +277,7 @@ npm run dev
 ### 5️⃣ Open in browser
 
 ```
-[http://localhost:3000](http://localhost:3000)
+http://localhost:3000
 ```
 
 ---
