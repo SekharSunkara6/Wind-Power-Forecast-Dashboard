@@ -212,7 +212,6 @@ The application is deployed using:
 # 📁 Project Structure
 
 ```
-
 wind-power-forecast-app
 │
 ├── app/
@@ -237,7 +236,6 @@ wind-power-forecast-app
 ├── README.md
 │
 └── package.json
-
 ```
 
 ---
@@ -247,9 +245,7 @@ wind-power-forecast-app
 ### 1️⃣ Clone the repository
 
 ```
-
 git clone [https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git](https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git)
-
 ```
 
 ---
@@ -257,9 +253,7 @@ git clone [https://github.com/SekharSunkara6/Wind-Power-Forecast-Dashboard.git](
 ### 2️⃣ Navigate into the project
 
 ```
-
 cd Wind-Power-Forecast-Dashboard
-
 ```
 
 ---
@@ -267,9 +261,7 @@ cd Wind-Power-Forecast-Dashboard
 ### 3️⃣ Install dependencies
 
 ```
-
 npm install
-
 ```
 
 ---
@@ -277,9 +269,7 @@ npm install
 ### 4️⃣ Start the development server
 
 ```
-
 npm run dev
-
 ```
 
 ---
@@ -287,9 +277,7 @@ npm run dev
 ### 5️⃣ Open in browser
 
 ```
-
 [http://localhost:3000](http://localhost:3000)
-
 ```
 
 ---
@@ -342,7 +330,6 @@ The final submission includes:
 ✔ Repository zip archive (including `.git` history)
 
 ---
-
 # 👤 Candidate Details
 
 **Name:** PurnaSekhar Sunkara  
@@ -358,26 +345,7 @@ The final submission includes:
 **Phone:** (+91 9121975699)
 
 **Resume:** (https://drive.google.com/file/d/1U6jr8S7LIr_-4TUPrkZrJhwQ69GKHYoP/view?usp=sharing)
-
 ---
-
-# 📧 Submission Email
-
-Sent to:
-
-```
-
-[hiring@reint.ai](mailto:hiring@reint.ai)
-
-```
-
-Subject:
-
-```
-
-Full Stack SWE challenge submission
-
-```
 
 Includes:
 
